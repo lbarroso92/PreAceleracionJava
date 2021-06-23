@@ -1,0 +1,16 @@
+alkemy\challenge\Challenge\Alkemy\controller\CategoryController.class
+alkemy\challenge\Challenge\Alkemy\service\UserService.class
+alkemy\challenge\Challenge\Alkemy\config\SecurityConfig.class
+alkemy\challenge\Challenge\Alkemy\controller\UserController.class
+alkemy\challenge\Challenge\Alkemy\model\Book.class
+alkemy\challenge\Challenge\Alkemy\util\Message.class
+alkemy\challenge\Challenge\Alkemy\controller\BookController.class
+alkemy\challenge\Challenge\Alkemy\model\Book$BookBuilder.class
+alkemy\challenge\Challenge\Alkemy\repository\CategoryRepository.class
+alkemy\challenge\Challenge\Alkemy\model\Category$CategoryBuilder.class
+alkemy\challenge\Challenge\Alkemy\model\Category.class
+alkemy\challenge\Challenge\Alkemy\ChallengeSpringApplication.class
+alkemy\challenge\Challenge\Alkemy\service\CategoryService.class
+alkemy\challenge\Challenge\Alkemy\model\User.class
+alkemy\challenge\Challenge\Alkemy\repository\UserRepository.class
+alkemy\challenge\Challenge\Alkemy\repository\BookRepository.class
